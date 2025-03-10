@@ -6,15 +6,16 @@ The Online Retail Analysis project aims to explore and analyze e-commerce transa
 # Dataset
 The dataset contains transaction-level information, including:
 
-> InvoiceNo: Unique transaction ID
-StockCode: Product code
-Description: Product description
-Quantity: Number of units purchased
-InvoiceDate: Date and time of purchase
-UnitPrice: Price per unit
-CustomerID: Unique identifier for customers
-Country: Country of purchase
-Key Steps in the Analysis
+* InvoiceNo: Unique transaction ID
+* StockCode: Product code
+* Description: Product description
+* Quantity: Number of units purchased
+* InvoiceDate: Date and time of purchase
+* UnitPrice: Price per unit
+* CustomerID: Unique identifier for customers
+* Country: Country of purchase
+  
+# Key Steps in the Analysis
 Data Preprocessing
 
 # Loading the dataset using Pandas
