@@ -6,7 +6,7 @@ The Online Retail Analysis project aims to explore and analyze e-commerce transa
 # Dataset
 The dataset contains transaction-level information, including:
 
-InvoiceNo: Unique transaction ID
+> InvoiceNo: Unique transaction ID
 StockCode: Product code
 Description: Product description
 Quantity: Number of units purchased
